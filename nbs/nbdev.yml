@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_learing"
+  site-url: "https://cooper-richason.github.io/nbdev_learing"
+  description: "Learning the nbdev package"
+  repo-branch: main
+  repo-url: "https://github.com/cooper-richason/nbdev_learing"
